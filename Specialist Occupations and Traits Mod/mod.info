@@ -1,0 +1,5 @@
+name=Specialist Occupations and Traits
+id=TomaroSpecialists
+poster=icon.png
+description=Replaces the vanilla occupations with specialist occupations, and adds new traits with skills and items.
+require=ProfessionFramework

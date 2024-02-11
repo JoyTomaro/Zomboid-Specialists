@@ -1,0 +1,127 @@
+UI_EN = {
+--------------------------------------
+--Occupations
+--------------------------------------
+
+    UI_prof_Default = "CHOOSE A CLASS",
+    UI_profdesc_Default = "No class selected",
+
+    UI_prof_Generalist = "Generalist",
+    UI_profdesc_Generalist = "You are adaptive and learn faster",
+
+    UI_prof_Builder = "Builder",
+    UI_profdesc_Builder = "You can build and fortify a base",
+
+    UI_prof_Vehicle = "Mechanic",
+    UI_profdesc_Vehicle = "You have knowledge to repair and operate vehicles",
+
+    UI_prof_Homemaking = "Homemaker",
+    UI_profdesc_Homemaking = "You keep the house in ship-shape",
+
+    UI_prof_Explorer = "Explorer",
+    UI_profdesc_Explorer = "You know the ins and outs of the wilderness",
+
+    UI_prof_Brute = "Brute",
+    UI_profdesc_Brute = "You are all brawn and no brains",
+
+--------------------------------------
+--Occupation Traits
+--------------------------------------
+
+    UI_trait_OccGeneralist = "Jack of all Trades",
+    UI_trait_OccGeneralistdesc = "Generalist",
+
+    UI_trait_OccBuilder = "Wood Shop",
+    UI_trait_OccBuilderdesc = "Building Specialist",
+
+    UI_trait_OccVehicle = "Auto Shop",
+    UI_trait_OccVehicledesc = "Vehicle Specialist",
+
+    UI_trait_OccHomemaking = "Home Economics",
+    UI_trait_OccHomemakingdesc = "Household Specialist",
+
+    UI_trait_OccExplorer = "Camper",
+    UI_trait_OccExplorerdesc = "Outdoors Specialist",
+
+    UI_trait_OccBrute = "Fighter",
+    UI_trait_OccBrutedesc = "Combat Specialist",
+
+--------------------------------------
+--Weapon Traits: Main
+--------------------------------------
+
+    UI_trait_TMRStriker = "[Primary] Striker",
+    UI_trait_TMRStrikerdesc = "Start with a baseball bat",
+
+    UI_trait_TMRSlasher = "[Primary] Slasher",
+    UI_trait_TMRSlasherdesc = "Start with a machete",
+
+    UI_trait_TMRChopper = "[Primary] Chopper",
+    UI_trait_TMRChopperdesc = "Start with a fire axe",
+
+    UI_trait_TMRLancer = "[Primary] Lancer",
+    UI_trait_TMRLancerdesc = "Start with a garden fork",
+
+    UI_trait_TMRSharpshooter = "[Primary] Sharpshooter",
+    UI_trait_TMRSharpshooterdesc = "Start with an M14 rifle",
+
+--------------------------------------
+--Weapon Traits: Secondary
+--------------------------------------
+
+    UI_trait_TMRHuntingKnife = "[Secondary] Hunting Knife",
+    UI_trait_TMRHuntingKnifedesc = "Start with a hunting knife",
+
+    UI_trait_TMRNightstick = "[Secondary] Nightstick",
+    UI_trait_TMRNightstickdesc = "Start with a nightstick",
+
+    UI_trait_TMRPistol = "[Secondary] Pistol",
+    UI_trait_TMRPistoldesc = "Start with a pistol",
+
+--------------------------------------
+--Skill Traits
+--------------------------------------
+
+    UI_trait_TMRMedic = "[Skill] Medic",
+    UI_trait_TMRMedicdesc = "",
+
+    UI_trait_TMRTailor = "[Skill] Tailor",
+    UI_trait_TMRTailordesc = "",
+
+    UI_trait_TMRElectrical = "[Skill] Electrical",
+    UI_trait_TMRElectricaldesc = "",
+
+    UI_trait_TMRMetalworking = "[Skill] Metalworking",
+    UI_trait_TMRMetalworkingdesc = "",
+
+    UI_trait_TMRForaging = "[Skill] Foraging",
+    UI_trait_TMRForagingdesc = "",
+
+    UI_trait_TMRTrapping = "[Skill] Trapping",
+    UI_trait_TMRTrappingdesc = "",
+
+    UI_trait_TMRFarming = "[Skill] Farming",
+    UI_trait_TMRFarmingdesc = "",
+
+--------------------------------------
+--Misc Traits
+--------------------------------------
+
+    UI_trait_TMRFurry = "Furry",
+    UI_trait_TMRFurrydesc = "A furry in the apocalypse?",
+
+    UI_trait_TMRGenerator = "Generator",
+    UI_trait_TMRGeneratordesc = "Know how to operate a generator",
+
+    UI_trait_TMRHerbalist = "Herbalist",
+    UI_trait_TMRHerbalistdesc = "Can detect poisonous mushrooms and berries",
+
+    UI_trait_TMRExplosives = "Explosives Expert",
+    UI_trait_TMRExplosivesdesc = "Gain exclusive explosives recipes",
+
+    UI_trait_TMRMaintenance = "Maintenance",
+    UI_trait_TMRMaintenancedesc = "",
+
+    UI_trait_TMRHandTorch = "Hand Torch",
+    UI_trait_TMRHandTorchdesc = "Start with a hand torch",
+}
